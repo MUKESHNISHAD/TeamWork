@@ -1,0 +1,200 @@
+#body-layout {
+    background-color: #EDE5E1;
+}
+
+.heading {
+    /* margin-left: 43%; */
+    text-align: center;
+    font-size: 330%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Domantion {
+    font-size: 370%;
+}
+
+.University-Name {
+    position: relative;
+}
+
+#combridge-uni,
+#harvard-uni,
+#califormia-uni,
+#EthZentrum-uni,
+#max-planck,
+#edinburgh-uni,
+#John-hopi,
+#Michigan-uni,
+#lllinois,
+#Humboldt {
+    height: 170px;
+    width: 250px;
+    border-color: black;
+    /* border-style: solid; */
+    font-size: 300%;
+    margin-left: 7%;
+    margin-top: 1%;
+    cursor: pointer;
+    border-radius: 30px;
+    text-align: center;
+    position: relative;
+    box-shadow: 5px 10px;
+    top: 50%;
+}
+
+#combridge-uni:hover,
+#harvard-uni:hover,
+#califormia-uni:hover,
+#EthZentrum-uni:hover,
+#max-planck:hover,
+#edinburgh-uni:hover,
+#John-hopi:hover,
+#Michigan-uni:hover,
+#lllinois:hover,
+#Humboldt:hover {
+    border-style: solid;
+}
+
+.mentor-1,
+.mentor-2,
+.mentor-3 {
+    display: flex;
+}
+
+#combridge-uni-mentor,
+#harvard-uni-mentor,
+#califormia-uni-mentor,
+#EthZentrum-uni-mentor,
+#max-planck-mentor,
+#edinburgh-uni-mentor,
+#John-hopi-mentor,
+#Michigan-uni-mentor,
+#lllinois-mentor,
+#Humboldt-mentor {
+    height: 170px;
+    width: 250px;
+    border-color: black;
+    /* border-style: solid; */
+    font-size: 300%;
+    margin-left: 7%;
+    margin-top: 1%;
+    cursor: pointer;
+    border-radius: 30px;
+    text-align: center;
+    position: relative;
+    box-shadow: 5px 10px;
+    top: 50%;
+}
+
+#combridge-uni-mentor:hover,
+#harvard-uni-mentor:hover,
+#califormia-uni-mentor:hover,
+#EthZentrum-uni-mentor:hover,
+#max-planck-mentor:hover,
+#edinburgh-uni-mentor:hover,
+#John-hopi-mentor:hover,
+#Michigan-uni-mentor:hover,
+#lllinois-mentor:hover,
+#Humboldt-mentor:hover {
+    border-style: solid;
+}
+
+
+#layout-menlogo {
+    height: 100px;
+    width: 100px;
+    /* border-style: solid; */
+    text-align: center;
+    margin-left: 29%;
+    margin-top: 2px;
+    border-radius: 50%;
+}
+
+#menlogo {
+    margin-top: 2px;
+    width: 80%;
+    height: 80%;
+}
+
+#MentorName {
+    font-size: 20px;
+}
+
+#combridge-uni {
+    background-color: rgb(13, 244, 244);
+}
+
+#harvard-uni {
+    background-color: rgb(235, 102, 102);
+}
+
+#califormia-uni {
+    background-color: green;
+}
+
+#EthZentrum-uni {
+    background-color: white;
+}
+
+#max-planck {
+    background-color: aquamarine;
+}
+
+#edinburgh-uni {
+    background-color: cornflowerblue;
+}
+
+#John-hopi {
+    background-color: burlywood;
+}
+
+#lllinois {
+    background-color: blue;
+}
+
+#Humboldt {
+    background-color: rgb(206, 176, 141);
+}
+
+.univer-1,
+.univer-2,
+.univer-3 {
+    display: flex;
+}
+
+#head-advisor {
+    height: 250px;
+    width: 320px;
+    /* border-style: solid; */
+    text-align: center;
+    margin-left: 10px;
+}
+
+#head-advisor {
+    height: 250px;
+    width: 320px;
+    /* border-style: solid; */
+    text-align: center;
+    margin-left: 10px;
+}
+
+#advisor1,
+#advisor2 {
+    height: 250px;
+    width: 320px;
+    /* border-style: solid; */
+    text-align: center;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+
+#advisor {
+    display: flex;
+    margin-left: 1px;
+}
+
+#massage {
+    font-size: large;
+    border-radius: 10px;
+    cursor: pointer;
+}
